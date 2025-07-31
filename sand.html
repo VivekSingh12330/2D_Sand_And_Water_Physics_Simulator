@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2D Sand & Water Physics Simulator</title>
+  <link rel="stylesheet" href="sand.css">
+  <script src="sand.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+</head>
+<body>
+  <header>
+    <h1> 2D Sand & Water Physics Simulator</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+         <li><a href="#about">About</a></li>
+        <li><a href="#physics">Physics</a></li>
+        <li><a href="#how-to-use">How to Use</a></li>
+        <li><a href="#controls">Simulation</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <main>
+    <section id="about" class="content-section">
+      <h2>About This Project</h2>
+      <p>Experience realistic particle physics with this advanced sand and water simulator. Watch materials interact according to their physical properties with enhanced water physics.</p>
+    </section>
+    <div id="home" class="content-section">
+      <h2>Advanced Physics Simulation</h2>
+      <p>Experience realistic sand, water, and stone physics with enhanced particle behavior, fluid dynamics, and natural interactions. Watch as sand absorbs water and changes color, stones create impacts, and water flows with realistic splashes.</p>
+      <div class="material-properties">
+        <div class="property">
+          <h3>Sand Physics</h3>
+          <p>Granular physics with wetness absorption, angle of repose, and compaction behavior.</p>
+        </div>
+        <div class="property">
+          <h3>Water Physics</h3>
+          <p>Enhanced fluid dynamics with splashes, pressure simulation, and absorption by sand.</p>
+        </div>
+        <div class="property">
+          <h3>Stone Physics</h3>
+          <p>Solid objects that fall with gravity, displace water, and create impressions in sand.</p>
+        </div>
+      </div>
+    </div>
+    
+    <div id="physics" class="content-section">
+      <h2>Advanced Physics Features</h2>
+      <ul>
+        <li><strong>Sand:</strong> Absorbs water and changes color, forms stable piles, and compacts under pressure.</li>
+        <li><strong>Water:</strong> Features splashes when hitting surfaces, pressure-based flow, and partial absorption by sand.</li>
+        <li><strong>Stone:</strong> Falls with gravity until it hits a surface, displaces water, and creates impressions in sand.</li>
+        <li><strong>Interactions:</strong> Sand partially absorbs water, water erodes sand particles, stones displace both materials.</li>
+        <li><strong>Visual Effects:</strong> Water splashes, wet sand gradients, and improved particle rendering.</li>
+      </ul>
+    </div>
+    
+    <div id="how-to-use" class="content-section">
+      <h2>How to Use</h2>
+      <ol>
+        <li>Select Sand, Water, or Stone from the material buttons</li>
+        <li>Choose your brush size from the dropdown</li>
+        <li>Click and drag to place particles</li>
+        <li>Use the eraser to remove particles</li>
+        <li>Clear All resets the entire simulation</li>
+        <li>Try dropping stones into water or creating sand dams!</li>
+      </ol>
+      <div class="material-properties">
+        <div class="property">
+          <h3>Keyboard Shortcuts</h3>
+          <p>S: Sand | W: Water | T: Stone | E: Eraser | C: Clear All</p>
+        </div>
+        <div class="property">
+          <h3>Pro Tip</h3>
+          <p>Drop stones from height to see realistic falling and splash effects!</p>
+        </div>
+      </div>
+    </div>
+    
+    <div id="controls" class="content-section">
+      <h2>Simulation Controls</h2>
+      <div id="control-panel">
+        <button id="sandButton" class="active">Sand</button>
+        <button id="waterButton">Water</button>
+        <button id="stoneButton">Stone</button>
+        <button id="eraserButton">Eraser</button>
+        <button id="clearButton">Clear All</button>
+        <select id="brushSize">
+          <option value="1">Small Brush</option>
+          <option value="3" selected>Medium Brush</option>
+          <option value="5">Large Brush</option>
+          <option value="10">Huge Brush</option>
+        </select>
+      </div>
+      <div class="stats" id="stats">
+        Particles: <span id="particleCount">0</span> | FPS: <span id="fps">60</span> | Material: <span id="currentMaterial">Sand</span>
+      </div>
+    </div>
+    
+    <div id="canvas-container">
+    </div>
+  </main>
+  
+  <footer>
+    <p>&copy; 2025 2D Physics Simulator | Vivek Singh Shekhawat</p>
+  </footer>
+  
+</body>
+</html>
