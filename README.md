@@ -594,7 +594,7 @@ When reporting issues, please include:
 - **Console error messages** (F12 → Console)
 - **Screenshots or screen recordings** if helpful
 
-**Submit bug reports**: [GitHub Issues](https://github.com/viveksinghshekhawat/sand-water-simulator/issues)
+**Submit bug reports**: [GitHub Issues](https://github.com/VivekSingh12330/2D_Sand_And_Water_Physics_Simulator/issues)
 
 ---
 
@@ -650,24 +650,19 @@ The above copyright notice and this permission notice shall be included in all c
 
 ### **Author**  
 **Vivek Singh Shekhawat**  
-- 🌐 **GitHub**: [@viveksinghshekhawat](https://github.com/viveksinghshekhawat)  
-- 📧 **Email**: [vivek.shekhawat@example.com](mailto:vivek.shekhawat@example.com)  
-- 💼 **LinkedIn**: [Vivek Singh Shekhawat](https://linkedin.com/in/viveksinghshekhawat)  
-- 🐦 **Twitter**: [@viveksinghdev](https://twitter.com/viveksinghdev)  
+- 🌐 **GitHub**: [@viveksinghshekhawat](https://github.com/VivekSingh12330)  
+- 📧 **Email**: [vivek.shekhawat@example.com](mailto:shekhawatvsshp9694@gmail.com)  
+- 💼 **LinkedIn**: [Vivek Singh Shekhawat](www.linkedin.com/in/vivek-singh-shekhawat-700b17246)
 
 ### **Acknowledgments**  
 - **p5.js Community**: For the excellent creative coding library and documentation
 - **Physics Simulation Research**: Inspired by cellular automata and fluid dynamics studies
 - **Open Source Community**: For tools, libraries, and inspiration
-- **Beta Testers**: Community members who helped test and improve the simulator
 - **Educational Resources**: Online courses and tutorials that helped with physics implementation
 
 ### **Similar Projects & Inspiration**  
 - **[Sandspiel](https://sandspiel.club/)**: Online falling sand game that inspired the concept
-- **[The Powder Toy](https://powdertoy.co.uk/)**: Advanced physics sandbox with many materials
-- **[Noita](https://noitagame.com/)**: Game featuring similar pixel-based physics
-- **[Falling Sand Games](https://en.wikipedia.org/wiki/Falling-sand_game)**: Classic genre of physics simulations
-
+- **[The Powder Toy](https://powdertoy.co.uk/)**: Advanced physics sandbox with many material
 ---
 
 ## **📚 Additional Resources**  
@@ -686,8 +681,8 @@ The above copyright notice and this permission notice shall be included in all c
 - **Browser Compatibility**: [Can I Use](https://caniuse.com/) for feature support
 
 ### **Community**  
-- 💬 **GitHub Discussions**: [Project Discussions](https://github.com/viveksinghshekhawat/sand-water-simulator/discussions)
-- 🐛 **Issue Tracker**: [Report Bugs](https://github.com/viveksinghshekhawat/sand-water-simulator/issues)
+- 💬 **GitHub Discussions**: [Project Discussions](https://github.com/VivekSingh12330/2D_Sand_And_Water_Physics_Simulator/discussions)
+- 🐛 **Issue Tracker**: [Report Bugs](https://github.com/VivekSingh12330/2D_Sand_And_Water_Physics_Simulator/issues)
 - 📧 **Contact**: Direct email for questions and suggestions
 - 🌟 **Star the Project**: Show support on GitHub
 
