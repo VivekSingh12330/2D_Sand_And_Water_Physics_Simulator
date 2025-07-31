@@ -297,7 +297,7 @@ class SplashParticle {
 ### **File Structure**  
 ```
 project/
-├── index.html              # Main HTML structure
+├── sand.html              # Main HTML structure
 │   ├── Header & Navigation
 │   ├── Content sections (About, Physics, Controls)
 │   ├── Canvas container
