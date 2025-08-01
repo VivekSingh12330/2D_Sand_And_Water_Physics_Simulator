@@ -22,7 +22,7 @@
 ### 5. Output - 1
 ![Output - 1](Screenshots/Output_1.png)
 
-### 5. Output - 2
+### 6. Output - 2
 ![Output - 2](Screenshots/Output_2.png)
 
 
