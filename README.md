@@ -8,22 +8,22 @@
 ## Screenshots
 
 ### 1. About this project
-![About this project](screenshots/About_this_project.png)
+![About this project](Screenshots/About_this_project.png)
 
 ### 2. Physics 
-![Physics](screenshots/Physics.png)
+![Physics](Screenshots/Physics.png)
 
 ### 3. How to Use
-![How to Use](screenshots/How_to_Use.png)
+![How to Use](Screenshots/How_to_Use.png)
 
 ### 4. Simulation Control
-![Simulation Control](screenshots/Simulation_Control.png)
+![Simulation Control](Screenshots/Simulation_Control.png)
 
 ### 5. Output - 1
-![Output - 1](screenshots/Output_1.png)
+![Output - 1](Screenshots/Output_1.png)
 
 ### 5. Output - 2
-![Output - 2](screenshots/Output_2.png)
+![Output - 2](Screenshots/Output_2.png)
 
 
 ---
