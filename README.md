@@ -5,6 +5,27 @@
 
 📧 **Contact**: shekhawatvsshp9694@gmail.com](mailto:shekhawatvsshp9694@gmail.com)  
 
+## Screenshots
+
+### 1. About this project
+![About this project](screenshots/About_this_project.png)
+
+### 2. Physics 
+![Physics](screenshots/Physics.png)
+
+### 3. How to Use
+![How to Use](screenshots/How_to_Use.png)
+
+### 4. Simulation Control
+![Simulation Control](screenshots/Simulation_Control.png)
+
+### 5. Output - 1
+![Output - 1](screenshots/Output_1.png)
+
+### 5. Output - 2
+![Output - 2](screenshots/Output_2.png)
+
+
 ---
 
 ## **📌 Table of Contents**  
