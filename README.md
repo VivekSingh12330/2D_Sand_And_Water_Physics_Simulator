@@ -650,9 +650,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 ### **Author**  
 **Vivek Singh Shekhawat**  
-- 🌐 **GitHub**: [@viveksinghshekhawat](https://github.com/VivekSingh12330)  
-- 📧 **Email**: [vivek.shekhawat@example.com](mailto:shekhawatvsshp9694@gmail.com)  
-- 💼 **LinkedIn**: [Vivek Singh Shekhawat](www.linkedin.com/in/vivek-singh-shekhawat-700b17246)
+- 🌐 **GitHub**: [@VivekSingh12330](https://github.com/VivekSingh12330)  
+- 📧 **Email**: [shekhawatvsshp9694@gmail.com](mailto:shekhawatvsshp9694@gmail.com)  
+- 💼 **LinkedIn**: [Vivek Singh Shekhawat](https://www.linkedin.com/in/vivek-singh-shekhawat-700b17246/)
 
 ### **Acknowledgments**  
 - **p5.js Community**: For the excellent creative coding library and documentation
