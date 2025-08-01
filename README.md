@@ -3,7 +3,7 @@
 
 ![Physics Simulator Demo](https://img.shields.io/badge/Status-Active-brightgreen) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![p5.js](https://img.shields.io/badge/p5.js-1.4.0-red) ![License](https://img.shields.io/badge/License-MIT-blue)
 
-📧 **Contact**: shekhawatvsshp9694@gmail.com](mailto:vivek.shekhawat@example.com)  
+📧 **Contact**: shekhawatvsshp9694@gmail.com](mailto:shekhawatvsshp9694@gmail.com)  
 
 ---
 
